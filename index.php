@@ -75,7 +75,7 @@
                                 </div>
                                 <h3 class="title">Completed Senior Secondary School</h3>
                                 <p class="description">
-                                    I completed my 10th class from Geeta Bal Bharti Sr. Sec. School in 2014 with the
+                                    I completed my 12th class from Geeta Bal Bharti Sr. Sec. School in 2014 with the
                                     percentage of 78.6
                                 </p>
                             </a>
