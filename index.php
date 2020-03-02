@@ -34,7 +34,7 @@
                         data-words='["Software Developer", "UI Designer", "Backend Developer"]'></span>
                 </h1>
                 <div class="mt-4">
-                    <a href="#section2" class="knowMore">Know more about me</a>
+                    <a href="#section2" class="knowMore scroll-link">Know more about me</a>
                 </div>
                 <div class="pt-5">
                 <a href="resume/CV_11601489.pdf" class="DownloadCV" download >download CV</a>
@@ -136,7 +136,7 @@
                         </div>
                     </div>
                     <div class="mt-4 mb-4">
-                        <a href="#section3" class="knowMore">Projects</a>
+                        <a href="#section3" class="knowMore scroll-link">Projects</a>
                     </div>
                 </div>
             </div>
@@ -194,7 +194,7 @@
                 </div>
             </div>
             <div class="mt-4 mb-4">
-                        <a href="#section4" class="knowMore">Contact</a>
+                        <a href="#section4" class="knowMores croll-link">Contact</a>
                     </div>
         </div>
     </section>
@@ -284,7 +284,7 @@
                 </div>
             </div>
             <div class="mt-4 mb-4">
-                        <a href="#section1" class="knowMore">Back to Top</a>
+                        <a href="#section1" class="knowMore scroll-link">Back to Top</a>
                     </div>
         </div>
     </section>
