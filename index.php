@@ -194,7 +194,7 @@
                 </div>
             </div>
             <div class="mt-4 mb-4">
-                        <a href="#section4" class="knowMores croll-link">Contact</a>
+                        <a href="#section4" class="knowMore scroll-link">Contact</a>
                     </div>
         </div>
     </section>
